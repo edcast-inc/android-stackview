@@ -3,6 +3,10 @@ android-stackview
 
 We have created a tinder-like StackView to show a stack of cards. Cards can be swiped away either horizontally or vertically. 
 
+
+![alt tag](https://raw.githubusercontent.com/edcast-inc/android-stackview/master/screenshots/sample1.gif)
+
+
 The code is simple. You simply need to extend AbstractCardsStackView and set the orientation and adapter:
 
 ```java
