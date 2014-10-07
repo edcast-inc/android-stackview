@@ -13,7 +13,7 @@ import android.widget.TextView;
 public class CardAdapter extends BaseAdapter {
     @Override
     public int getCount() {
-        return 10;
+        return 5;
     }
 
     @Override
