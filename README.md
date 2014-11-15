@@ -1,7 +1,7 @@
 android-stackview
 =================
 
-We have created a tinder-like StackView to show a stack of cards. Cards can be swiped away either horizontally or vertically. 
+A StackView for displaying a stack of cards. Cards can be swiped away either horizontally or vertically. 
 
 
 ![alt tag](https://raw.githubusercontent.com/edcast-inc/android-stackview/master/screenshots/sample1.gif)
